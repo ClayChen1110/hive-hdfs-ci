@@ -1,0 +1,7 @@
+# Python dependencies
+pyhive[hive]
+thrift
+sasl
+thrift-sasl
+pytest
+pytest-cov
