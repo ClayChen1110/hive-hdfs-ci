@@ -52,7 +52,7 @@ jobs:
     
     services:
       hive:
-        image: apache/hive:4.2.0
+        image: apache/hive:4.0.0
         ports:
           - 10000:10000
         options: >-
